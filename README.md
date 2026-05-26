@@ -1,0 +1,1 @@
+Technical Support Analytics Dashboard built in Power BI using support case data to analyze ticket trends, customer satisfaction, case distribution, and operational performance across multiple countries. Includes interactive visualizations, KPI tracking, survey analysis, and support metrics designed to provide business insights and improve decision-making.
